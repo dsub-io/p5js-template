@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "noEmit": true,
+    "types": ["p5"]
+  },
+  "include": [
+    "./**/*.js"
+  ]
+}
